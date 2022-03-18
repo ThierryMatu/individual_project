@@ -24,7 +24,7 @@ const lessons = [
       spaces: 5,
       price: 150,
       stars: 5,
-      image: 'image/football.jpg'
+      image: 'images/football.jpg'
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ const lessons = [
       spaces: 5,
       price: 200,
       stars: 4,
-      image: 'basketball.jpg'
+      image: 'images/basketball.jpg'
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ const lessons = [
       spaces: 5,
       price: 100,
       stars: 3,
-      image: 'martial art.jpg'
+      image: 'images/martial art.jpg'
     },
     {
       id: 6,
@@ -51,7 +51,7 @@ const lessons = [
       spaces: 5,
       price: 150,
       stars: 2,
-      image: 'Gaming.jpg'
+      image: 'images/Gaming.jpg'
     },
     {
       id: 7,
@@ -60,7 +60,7 @@ const lessons = [
       spaces: 5,
       price: 100,
       stars: 3,
-      image: 'music.jpg'
+      image: 'images/music.jpg'
     },
     {
       id: 8,
@@ -69,7 +69,7 @@ const lessons = [
       spaces: 5,
       price: 50,
       stars: 4,
-      image: 'movies.jpg'
+      image: 'images/movies.jpg'
     },
     {
       id: 9,
@@ -78,7 +78,7 @@ const lessons = [
       spaces: 5,
       price: 150,
       stars: 5,
-      image: 'dancing.jpg'
+      image: 'images/dancing.jpg'
     },
     {
       id: 10,
@@ -87,6 +87,6 @@ const lessons = [
       spaces: 5,
       price: 100,
       stars: 3,
-      image: 'volleyball.jpg'
+      image: 'images/volleyball.jpg'
     }
   ]
