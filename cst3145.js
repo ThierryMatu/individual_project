@@ -83,7 +83,7 @@ const lessons = [
     {
       id: 10,
       subject: 'Volley Ball',
-      location: 'Al Ain,UAE',
+      location: 'Hatta,UAE',
       spaces: 5,
       price: 100,
       stars: 3,
